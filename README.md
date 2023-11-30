@@ -2,15 +2,11 @@
 <h3 align="center">经历丰富，无法简介</h3>
 <p align="center">
   <!-- Github徽章 -->
-  <a href="https://github.com/Augenstern-creator" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
+  <a href="https://github.com/shyGuide" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
   <!-- Gitee徽章 -->
-  <a href="https://gitee.com/Augenstern-creator" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
+  <a href="[https://gitee.com/Augenstern-creator](https://gitee.com/shy_simple)" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
   <!-- CSDN徽章 -->
- <a href="https://blog.csdn.net/Augenstern_QXL" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
-  <!-- 个人网站徽章 -->
-  <a href="https://www.qindalin.com" target="_blank">
-    <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
-  </a>
+ <a href="https://blog.csdn.net/shy_1762538422" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 访客徽章 -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=Augenstern-creator&left_color=green&right_color=red">
 </p>
