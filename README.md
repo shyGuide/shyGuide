@@ -26,7 +26,7 @@
 
 <div > <img src="https://stats.justsong.cn/api/csdn?id=shy_1762538422&theme=flag-india">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyGuide)](https://github.com/shyGuide/letao)
+  [!(https://github-readme-stats.vercel.app/api/top-langs/?username=shyGuide)](https://github.com/shyGuide/letao)
 </div>
 
 
