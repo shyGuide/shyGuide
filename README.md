@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Things of Interest**
 
-- 📝 I regularly write articles on [https://blog.csdn.net/shy_1762538422](https://blog.csdn.net/shy_1762538422)
+- 📝 I regularly write articles on [shyの同学](https://blog.csdn.net/shy_1762538422)
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **1762538422@qq.com**
 
-- 📄 Know about my experiences [https://mp.weixin.qq.com/s/Z1CUr_ol_PwzStJ1HCZBqg](https://mp.weixin.qq.com/s/Z1CUr_ol_PwzStJ1HCZBqg)
+- 📄 Know about my experiences [shy好好学习](https://mp.weixin.qq.com/s/Z1CUr_ol_PwzStJ1HCZBqg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
