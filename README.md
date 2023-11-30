@@ -4,9 +4,9 @@
   <!-- Github徽章 -->
   <a href="https://github.com/shyGuide" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
   <!-- Gitee徽章 -->
-  <a href="[https://gitee.com/Augenstern-creator](https://gitee.com/shy_simple)" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
+  <a href="[https://gitee.com/Augenstern-creator](https://gitee.com/shy_simple)" target="_blank"><img src="https://img.shields.io/badge/Gitee-shy好好学习-orange"></a>
   <!-- CSDN徽章 -->
- <a href="https://blog.csdn.net/shy_1762538422" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
+ <a href="https://blog.csdn.net/shy_1762538422" target="_blank"><img src="https://img.shields.io/badge/CSDN-shy好好学习-yellow"></a>
   <!-- 访客徽章 -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=letao&left_color=green&right_color=red">
 </p>
