@@ -2,6 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyGuide&show_icons=true&count_private=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shyGuide&repo=letao)](https://github.com/shyGuide/letao)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyGuide)](https://github.com/shyGuide/letao)
+![](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&width=450&lines=System.out.println(%22Hello%2C%20World%22)%3B;)
+
 <br>一个95后的北漂码农，正在努力苟活
 
 联系我:
