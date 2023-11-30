@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyGuide)](https://github.com/shyGuide/letao)
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&width=450&lines=System.out.println(%22Hello%2C%20World%22)%3B;)
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=shy_1762538422&theme=dark"> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=shy_1762538422&theme=flag-india"> </div>
 <br>一个95后的北漂码农，正在努力苟活
 
 联系我:
