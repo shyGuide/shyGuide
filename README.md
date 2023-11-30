@@ -24,7 +24,7 @@
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&width=450&lines=System.out.println(%22Hello%2C%20World%22)%3B;)
 <br />
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=shy_1762538422&theme=flag-india">
+<div align="left"> <img src="https://stats.justsong.cn/api/csdn?id=shy_1762538422&theme=flag-india">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyGuide)](https://github.com/shyGuide/letao)
 </div>
