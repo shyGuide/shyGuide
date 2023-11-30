@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences **[shy好好学习](https://mp.weixin.qq.com/s/Z1CUr_ol_PwzStJ1HCZBqg)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
