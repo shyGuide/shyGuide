@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on **[shyの同学](https://blog.csdn.net/shy_1762538422)**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** or **Life**
 
 - 📫 How to reach me **1762538422@qq.com**
 
