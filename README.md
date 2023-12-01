@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shy</h1>
-<h3 align="center">经历丰富，无法简介</h3>
+<h3 align="center">有人见尘埃，有人见星辰</h3>
 <p align="center">
   <!-- Github徽章 -->
   <a href="https://github.com/shyGuide" target="_blank"><img src="https://img.shields.io/badge/GitHub-shy好好学习-brightgreen"></a>
