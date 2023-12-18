@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Things of Interest**
 
-- 📝 I regularly write articles on **[shyの同学](https://blog.csdn.net/shy_1762538422)**
+- 📝 I regularly write articles on **[shy好好学习](https://blog.csdn.net/shy_1762538422)**
 
 - 💬 Ask me about **Java** or **Life**
 
